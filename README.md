@@ -1,7 +1,7 @@
 
 
 
-# Example shopping cart using objets and template.
+# Example shopping cart
 
 ##template
 ```html
@@ -34,5 +34,5 @@ const recorrerCarrito = () => {
 
 }
 ```
-## Try it at: 
+## Try it at: https://lmacaris.github.io/Cartv2/
 ### Have a nice day. Thank you for stopping by!
